@@ -36,7 +36,7 @@ Set up cloud resources and database infrastructure for a real-time fleet trackin
 <div align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ranjithhub08&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithhub08&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" />
-</div>div>
+</div>
 
 ---
 
