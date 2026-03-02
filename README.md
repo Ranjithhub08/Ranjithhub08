@@ -1,20 +1,22 @@
-<h1 align="center">Hi &#128075;, I'm Ranjith Kumar</h1>h1>
-<h3 align="center">DevOps & Backend Engineer | Cloud Infrastructure | CI/CD | System Reliability</h3>h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/ranjithkumar"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"></a>a>
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Email"></a>a>
-</p>p>
+# Hi &#128075;, I'm Ranjith Kumar
+### DevOps & Backend Engineer | Cloud Infrastructure | CI/CD | System Reliability
+
+<a href="https://linkedin.com/in/ranjithkumar"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail" alt="Email"></a>
+
+</div>
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Programmer Meme" width="300" />
-</p>p>
+</div>div>
 
 ---
 
-<h3 align="left">&#128640; About Me</h3>h3>
+### &#128640; About Me
 I'm a dedicated **DevOps & Backend Engineer** passionate about building and maintaining reliable cloud infrastructure, automating deployment pipelines, and systematizing operations. My core focus is on bridging infrastructure with scalable backend systems for optimal performance and zero-downtime environments.
 
 - &#128301; I'm currently building **automated GitOps-driven deployment workflows**.
@@ -23,8 +25,8 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
    
     - ---
 
-    <h3 align="left">&#128736; Languages and Tools:</h3>h3>
-    <p align="left">
+    ### &#128736; Languages and Tools:
+    <div align="left">
       <!-- Core -->
         <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>a>
           <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>a>
@@ -44,11 +46,11 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
       <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
         <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
           <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
-          </p>
+          </div>
 
           ---
 
-    <h3 align="left">&#128187; Featured Engineering</h3>h3>
+    ### &#128187; Featured Engineering
 
     ### &#128737; [SentinelAI Monitoring Platform](#)
     > **Tech Stack:** Docker, PostgreSQL, Prometheus, Go
@@ -66,15 +68,15 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
     >     >     >
     >     >     > - ---
     >     >     >
-    >     >     > <h3 align="left">&#128202; GitHub Stats</h3>h3>
-    <p align="center">
+    >     >     > ### &#128202; GitHub Stats
+    >     >     > <div align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Ranjithhub08&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&theme=radical" alt="GitHub Stats" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithhub08&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&theme=radical" alt="Top Languages" />
-    </p>p>
+        </div>
 
-    ---
+        ---
 
-    <h3 align="left">&#129309; Shoutout to my Peers</h3>h3>
+    ### &#129309; Shoutout to my Peers
     - &#127775; [Prathyush Narwade (prathyush04)](https://github.com/prathyush04)
-    - &#10024; [K Sai Sri Lekha (Lekha0204)](https://github.com/Lekha0204)
-    
+    - - &#10024; [K Sai Sri Lekha (Lekha0204)](https://github.com/Lekha0204)
+      - 
