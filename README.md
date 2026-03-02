@@ -16,15 +16,15 @@
 ### :rocket: About Me
 I'm a dedicated **DevOps & Backend Engineer** passionate about building and maintaining reliable cloud infrastructure, automating deployment pipelines, and systematizing operations. My core focus is on bridging infrastructure with scalable backend systems for optimal performance and zero-downtime environments.
 
-- :telescope: I'm currently building **automated GitOps-driven deployment workflows**.
-- - :light_bulb: Exploring advanced **Kubernetes orchestration and observability**.
+- :telescope: I am currently building **automated GitOps-driven deployment workflows**.
+- - :bulb: Exploring advanced **Kubernetes orchestration and observability**.
  
   - ---
 
   ### :hammer_and_wrench: Tech Stack & Tools
 
   <p align="center">
-    <a href="https://skillicons.dev">
+    <a href="https://skillicons.dev" target="_blank">
         <img src="https://skillicons.dev/icons?i=go,python,linux,bash,kubernetes,docker,aws,gcp,terraform,postgres,redis,mongodb,prometheus,grafana,githubactions,gitlab,ansible&perline=9" />
     </a>a>
   </p>p>
