@@ -7,7 +7,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ranjithhub08&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/Ranjithhub08">
+    <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  </a>
 </p>
 
 <p align="center">
@@ -24,7 +26,7 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
 
 - 🔭 **Currently Engineering:** Automated GitOps workflows and highly concurrent microservices.
 - 💡 **Exploring:** Advanced Kubernetes orchestration, Service Meshes, and Observability patterns.
-- 💬 **Ask me about:** AWS, GCP, Terraform, Docker, Kubernetes, CI/CD, Go, and Python.
+- 💬 **Ask me about:** AWS, GCP, Terraform, Docker, Kubernetes, CI/CD, Go, Python, and Java.
 
 ---
 
@@ -32,7 +34,7 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=go,python,linux,bash,kubernetes,docker,aws,gcp,terraform,postgres,redis,mongodb,prometheus,grafana,githubactions,gitlab,ansible&perline=9" />
+    <img src="https://skillicons.dev/icons?i=java,spring,go,python,linux,bash,kubernetes,docker,aws,gcp,terraform,postgres,redis,mongodb,prometheus,grafana,githubactions,gitlab,ansible&perline=9" />
   </a>
 </p>
 
@@ -59,7 +61,11 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
 <!-- Snake Contribution Grid -->
 <div align="center">
   <h3>Contributions Snake Game 🐍</h3>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ranjithhub08/Ranjithhub08/output/github-contribution-grid-snake.gif">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ranjithhub08/Ranjithhub08/output/ocean-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ranjithhub08/Ranjithhub08/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ranjithhub08/Ranjithhub08/output/ocean-snake.svg">
+  </picture>
 </div>
 
 ---
