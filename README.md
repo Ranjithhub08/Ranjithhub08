@@ -60,8 +60,7 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
 
 <!-- Snake Contribution Grid -->
 <div align="center">
-  <h3>Contributions Snake Game 🐍</h3>
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ranjithhub08/Ranjithhub08/output/github-snake-dark.gif">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ranjithhub08/Ranjithhub08/output/github-snake-dark.gif">
 </div>
 
 ---
