@@ -19,7 +19,7 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Busy Cat" width="200" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWFsNjR2Z2h5NjE1cGs5MG11YXd1c3I2aGd6enoyeDE4cHFzdTBnYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q6RoNkLlFNjaw/giphy.gif" alt="Busy Cat" width="200" />
 
 ### 🚀 About Me
 I'm a dedicated **DevOps & Backend Engineer** passionate about building and maintaining reliable cloud infrastructure, automating deployment pipelines, and systematizing operations. My core focus is on bridging infrastructure with scalable backend systems for optimal performance and zero-downtime environments.
