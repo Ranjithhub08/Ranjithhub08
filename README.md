@@ -65,17 +65,34 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
 
 ---
 
-### 📈 Live Engine Metrics
+### 🏗️ Microservices Architecture Blueprint
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjithhub08&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjithhub08&theme=radical&hide_border=true&background=0d1117" width="80%" alt="GitHub Streak" />
-</div>
+```mermaid
+flowchart LR
+    Client((Client Apps)) -->|TLS 1.3| Gateway{API Gateway\n& Load Balancer}
+    
+    subgraph Kubernetes Cluster [High-Availability Environment]
+        Gateway -.-> Auth[Identity Service]
+        Gateway -.-> API[Core Engine API]
+        Gateway -.-> Tasks[Async Workers]
+        
+        Auth <--> DB[(PostgreSQL Master)]
+        API <--> Cache[(Redis Server)]
+        Tasks --> Bus[Kafka Event Bus]
+    end
+    
+    Bus --> ELK[Logstash & Kibana]
+    
+    %% Theming colors for high-end dark mode looks
+    classDef default fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#c9d1d9
+    classDef client fill:#161b22,stroke:#30363d,stroke-width:2px,color:#fff
+    classDef k8s fill:#1f6feb,stroke:#388bfd,stroke-width:2px,color:#fff
+    classDef obs fill:#238636,stroke:#2ea043,stroke-width:2px,color:#fff
+    
+    class Client client
+    class Gateway,Auth,API,Tasks k8s
+    class ELK obs
+```
 
 ---
 
