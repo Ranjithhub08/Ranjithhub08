@@ -65,17 +65,16 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
 
 ---
 
-### 📈 GitHub Analytics
+### 📈 Live Engine Metrics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ranjithhub08&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ranjithhub08&theme=react-dark&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjithhub08&show_icons=true&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjithhub08&layout=compact&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjithhub08&theme=radical&hide_border=true&background=0d1117" width="80%" alt="GitHub Streak" />
 </div>
 
 ---
