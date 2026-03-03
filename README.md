@@ -65,34 +65,13 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
 
 ---
 
-### 🏗️ Microservices Architecture Blueprint
+### 🤖 Terminal Bot 
 
-```mermaid
-flowchart LR
-    Client((Client Apps)) -->|TLS 1.3| Gateway{API Gateway\n& Load Balancer}
-    
-    subgraph Kubernetes Cluster [High-Availability Environment]
-        Gateway -.-> Auth[Identity Service]
-        Gateway -.-> API[Core Engine API]
-        Gateway -.-> Tasks[Async Workers]
-        
-        Auth <--> DB[(PostgreSQL Master)]
-        API <--> Cache[(Redis Server)]
-        Tasks --> Bus[Kafka Event Bus]
-    end
-    
-    Bus --> ELK[Logstash & Kibana]
-    
-    %% Theming colors for high-end dark mode looks
-    classDef default fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#c9d1d9
-    classDef client fill:#161b22,stroke:#30363d,stroke-width:2px,color:#fff
-    classDef k8s fill:#1f6feb,stroke:#388bfd,stroke-width:2px,color:#fff
-    classDef obs fill:#238636,stroke:#2ea043,stroke-width:2px,color:#fff
-    
-    class Client client
-    class Gateway,Auth,API,Tasks k8s
-    class ELK obs
-```
+<div align="center">
+  <a href="mailto:ranjithkumargaikina08@gmail.com?subject=Hello%20from%20your%20GitHub%20Profile!&body=Hi%20Ranjith,%0D%0A%0D%0AI%20saw%20your%20GitHub%20profile%20and%20wanted%20to%20connect!">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=2000&color=58A6FF&background=0D1117&center=true&vCenter=true&width=800&height=120&lines=Guest@GitHub:~%24+./RanjithBot.sh;%3E+Initializing+Ranjith_AI_Core...;%3E+Hello!+I+am+Ranjith's+virtual+system.;%3E+System+Status:+Online+%26+Ready+to+Scale.;%3E+[USER_PROMPT]+Click+this+terminal+to+ping+my+creator!" alt="Interactive Bot" />
+  </a>
+</div>
 
 ---
 
