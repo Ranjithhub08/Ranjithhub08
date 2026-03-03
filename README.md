@@ -61,11 +61,7 @@ I'm a dedicated **DevOps & Backend Engineer** passionate about building and main
 <!-- Snake Contribution Grid -->
 <div align="center">
   <h3>Contributions Snake Game 🐍</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ranjithhub08/Ranjithhub08/output/ocean-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ranjithhub08/Ranjithhub08/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ranjithhub08/Ranjithhub08/output/ocean-snake.svg">
-  </picture>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ranjithhub08/Ranjithhub08/output/github-snake-dark.gif">
 </div>
 
 ---
